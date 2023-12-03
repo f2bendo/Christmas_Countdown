@@ -21,15 +21,15 @@ width: 100%;
     
 }
 
-body{
-    background-image: url("./assets/bg3.jpg");
+body {
+    background-image: url("./assets/snow.jpg");
     background-size: cover;
-    background-repeat : no-repeat;
-    background-position: center center;
-    background-position-y:-7em;
+    background-repeat: no-repeat;
+    background-position: center bottom;
     font-family: 'Plus Jakarta Sans', sans-serif;
-    
+    height: 100vh;
 }
+
 
 p{
 float: left;
